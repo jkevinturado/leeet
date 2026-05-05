@@ -1,0 +1,17 @@
+{
+  "name": "kibent-leetcode",
+  "version": "1.0.0",
+  "description": "Practice Problem Solving Coding with LeetCode",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsx"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
+  }
+}
