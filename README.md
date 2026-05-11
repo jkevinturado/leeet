@@ -16,4 +16,5 @@ npm start <problem-folder>/solution.ts
 
 ## Updates
 
-- May 5, 2026 = TwoSum (two-sum)
+- May 5, 2026 = TwoSum (`Arrays/Easy/two-sum`)
+- May 11, 2026 = Palindrome (`Arrays/Easy/palindrome`)
